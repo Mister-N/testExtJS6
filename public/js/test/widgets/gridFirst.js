@@ -9,7 +9,7 @@ Ext.onReady(function() {
     proxy: {
       type: 'rest',
       // type: 'jsonp',
-      url: 'http://0.0.0.0:8080/application/api',
+      url: '/application/api',
       reader: {
         rootProperty: 'results',
         totalProperty: 'total',

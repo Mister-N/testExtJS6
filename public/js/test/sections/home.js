@@ -55,7 +55,7 @@ Ext.define('Test.panel.Home', {
             title: 'Вариант 1',
             layout: 'anchor',
             items: [{
-              html: '<h2>Первый вариант бесконесчной прокрутки</h2> ',
+              html: '<h2>Первый вариант бесконечной прокрутки</h2> ',
               cls: 'panel-desc'
             }
               ,{

@@ -5,7 +5,7 @@ Ext.onReady(function() {
        'id', 'polnNaimUr', 'innUr', 'subRf'
      ],
     autoLoad: true,
-    pageSize: 50,
+    pageSize: 150,
     proxy: {
       type: 'rest',
       // type: 'jsonp',

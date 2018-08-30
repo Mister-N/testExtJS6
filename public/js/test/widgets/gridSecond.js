@@ -5,7 +5,7 @@ Ext.onReady(function() {
             'id', 'polnNaimUr', 'innUr', 'subRf'
         ],
         autoLoad: true,
-        pageSize: 500,
+        pageSize: 100,
         proxy: {
             type: 'rest',
             url: '/application/api',

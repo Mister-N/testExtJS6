@@ -48,7 +48,7 @@ Ext.define('Test.panel.Home', {
           defaults: {border: false, autoHeight: true},
           border: true,
           hideMode: 'offsets',
-          items: [
+          items:[
             {
             title: 'Вариант 1',
             layout: 'anchor',

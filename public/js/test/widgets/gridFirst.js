@@ -20,7 +20,6 @@ Ext.onReady(function() {
       property: 'polnNaimUr',
       direction: 'ASC'
     }],
-    autoLoad: true
   });
 
   Ext.define('Test.grid.First', {
